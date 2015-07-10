@@ -1,0 +1,650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flx",
+				"flex-direction"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"t",
+				"title	Attr"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wid",
+				"width=device"
+			],
+			[
+				"name",
+				"name	Attr"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"main",
+				"mainContent"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mai",
+				"main.css"
+			],
+			[
+				"ma",
+				"main.css"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"ar",
+				"article	<article>"
+			],
+			[
+				"head",
+				"header	<header>"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"re",
+				"removeClass〔function〕"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"m",
+				"main.css"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"c",
+				"correctQuestions"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"cor",
+				"correctAnswer"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"pro",
+				"prompt〔function〕"
+			],
+			[
+				"r",
+				"rgbColor"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"an",
+				"answer1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"shtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"file",
+				"File: Delete"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"snippe:box",
+				"Snippet: for default CSS3 box sizing"
+			],
+			[
+				"snip",
+				"Snippet: :nth-child"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"s",
+				"Snippet: html"
+			],
+			[
+				"snippet:",
+				"Snippet: html"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ss",
+				"Set Syntax: HTML"
+			],
+			[
+				"key",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"con",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"sa",
+				"File: Save All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"FindKeyConflicts: All Key Maps to Quick Pane",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"setsc3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"setsh",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsc",
+				"Set Syntax: CSS"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"snip nth",
+				"Snippet: :nth-child"
+			],
+			[
+				" b",
+				"Bookmarks: Clear All"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"pa",
+				"Project: Add Folder"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"PA",
+				"Package Control: Install Package"
+			],
+			[
+				"PACK",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"creat text.html",
+			"test.html",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vikiz1/Documents/vikiz_website"
+	],
+	"file_history":
+	[
+		"/Users/vikiz1/Documents/VikiZhang_com/index-flex.html",
+		"/Users/vikiz1/Documents/VikiZhang_com/viki2.html",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/vikiz1/Documents/VikiZhang_com/test.css",
+		"/Users/vikiz1/Documents/VikiZhang_com/index.html",
+		"/Users/vikiz1/Documents/VikiZhang_com/viki.html",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/User/vikisnippet/boxSizing.xml",
+		"/Users/vikiz1/Documents/VikiZhang_com/_assets/_css/main-flex.css",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/FindKeyConflicts/README.md",
+		"/Users/vikiz1/Documents/VikiZhang_com/_assets/_css/main.css",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/User/CSS3.sublime-settings",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/vikiz1/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Users/vikiz1/Desktop/Helvetica Neue (拷贝).css",
+		"/Users/vikiz1/Library/Mobile Documents/com~apple~CloudDocs/Viki_CSS_writing_pattern.css",
+		"/Users/vikiz1/Desktop/textflexbox.html",
+		"/Users/vikiz1/Documents/VikiZhang_com/_assets/_html/HTML_articles.html",
+		"/Users/vikiz1/patch-edid.rb",
+		"/Users/vikiz1/Documents/VikiZhang_com/_assets/_html/design_articles.html",
+		"/Users/vikiz1/Documents/VikiZhang_com/_assets/_html/jQuery_articles.html",
+		"/Users/vikiz1/Documents/VikiZhang_com/_assets/_html/Javascript_articles.html",
+		"/Users/vikiz1/Documents/VikiZhang_com/_assets/_html/CSS_articles.html",
+		"/Users/vikiz1/Documents/VikiZhang_com/jQuery_articles.html",
+		"/Users/vikiz1/Documents/VikiZhang_com/_assets/_html/HTML.articles.html",
+		"/Users/vikiz1/Learning/Lynda/网页设计/James Williamson/CSS-Core Concepts /Exercise Files/Chapter_06/06_09/HTML_acticles.html",
+		"/Users/vikiz1/Learning/Lynda/网页设计/James Williamson/CSS-Core Concepts /Exercise Files/Chapter_06/06_09/HTML_article.html",
+		"/Users/vikiz1/Learning/Lynda/网页设计/James Williamson/CSS-Core Concepts /Exercise Files/Chapter_06/06_09/HTML_acticle.html",
+		"/Users/vikiz1/Downloads/Ex_Files_Web_Design_Fund/Exercise Files/Chapter_06/06_01/_css/styles.css",
+		"/Users/vikiz1/Desktop/untitled.html",
+		"/Users/vikiz1/Desktop/index.html",
+		"/Users/vikiz1/Desktop/app.js",
+		"/Users/vikiz1/Documents/尤利西斯笔记/Treehouse-Lynda -jQuery-学习笔记/index.html",
+		"/Users/vikiz1/Documents/尤利西斯笔记/styleviki.css",
+		"/Users/vikiz1/Documents/尤利西斯笔记/normalize.css",
+		"/Users/vikiz1/Documents/尤利西斯笔记/Treehouse-Lynda -jQuery-学习笔记/css/style.css",
+		"/Users/vikiz1/Documents/My_Javascript/Build_an_Object_Challenge/js/students.js",
+		"/Users/vikiz1/Documents/My_Javascript/quiz_chanllege2/js/quiz.js",
+		"/Users/vikiz1/Downloads/project/js/script.js",
+		"/Users/vikiz1/Documents/My_Javascript/test/index.html",
+		"/Users/vikiz1/Documents/My_Javascript/5questions/quiz.js",
+		"/Users/vikiz1/Documents/MyFirstJavascriptProgram/My_Javascript/index.html",
+		"/Users/vikiz1/Documents/MyFirstJavascriptProgram/My_Javascript/compare.js",
+		"/Users/vikiz1/Documents/MyFirstJavascriptProgram/quiz.js",
+		"/Users/vikiz1/Downloads/project/quiz.js"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"input",
+			"F2",
+			"ullamcorper",
+			"Zhang",
+			"a",
+			"comments",
+			"github",
+			"commentAuthor",
+			"uuuu",
+			"p",
+			"class",
+			"article",
+			"href",
+			"link",
+			"auto",
+			"4",
+			"div.flexContainer",
+			"div",
+			"</div>",
+			"5",
+			"p",
+			"display",
+			"Desktop",
+			"\n.",
+			"box-shadow:",
+			"box-shadow",
+			"85",
+			"84",
+			"14",
+			"clearfix",
+			"clear",
+			"acticleNote",
+			"commentContent",
+			"span",
+			">\n",
+			"ection",
+			"2rem",
+			"html",
+			"id=\"article\"",
+			"<!--",
+			"ul",
+			"a",
+			"\"></",
+			"=\"\"></",
+			"0.75",
+			"prompt",
+			"`",
+			"rcolor"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 148.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vikizWebsite.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"in",
+				"index-flex.html"
+			],
+			[
+				"fl",
+				"_assets/_css/main-flex.css"
+			],
+			[
+				"main",
+				"_assets/_css/main.css"
+			],
+			[
+				"css",
+				"_assets/_css/main.css"
+			],
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
